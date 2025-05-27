@@ -1,5 +1,5 @@
 # Lab22 : Classification des fruits et legumes
-# Réalisée par : AMOUZ ZAKARIA EMSI 2023/2024
+# Réalisée par : AMZ ZAK EMSI 2023/2024
 # Référence :https://colab.research.google.com/drive/1ScQSbfhu82kCUjBoAhz3kXgw65FOJFup#scrollTo=P8ySxVJubs7Q
 
 import tensorflow as tf
