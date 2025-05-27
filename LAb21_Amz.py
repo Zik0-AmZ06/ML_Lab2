@@ -1,5 +1,5 @@
 # Lab21 : Prédiction Crédit Logement
-# Réalisé par : Zakaria AMOUZ EMSI 2023/2024
+# Réalisé par : Zak AMZ EMSI 2023/2024
 # Réference :
 
 
