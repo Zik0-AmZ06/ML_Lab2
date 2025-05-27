@@ -1,5 +1,5 @@
 # Lab23 : Stock price prediction with lstm
-# Réalisé par : Zakaria AMOUZ EMSI 2023/2024
+# Réalisé par : Zak AMZ EMSI 2023/2024
 
 #Reference : https://towardsdatascience.com/predicting-stock-prices-using-a-keras-lstm-model-4225457f0233
 
